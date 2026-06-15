@@ -1,3 +1,6 @@
+## Screenshot
+
+![Notebook To-Do List](screenshot.png)
 # Notebook To-Do List
 
 ## Overview
